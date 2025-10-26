@@ -18,5 +18,9 @@ The project follows a **clean, maintainable, and scalable structure** — perfec
 ## 🧩 Architecture
 The app follows the **MVVM pattern**:
 
-| Intro Screen | Correct Answer | Wrong Answer |
-| ![Intro](./intro.png) | ![Correct](./true.png) | ![Wrong](./false.png) |
+## 📱 App Preview
+<p align="center">
+  <img src="./intro.png" alt="Intro Screen" width="200" height="300" style="margin-right: 10px;">
+  <img src="./true.png" alt="Correct Answer" width="200" height="300" style="margin-right: 10px;">
+  <img src="./false.png" alt="Wrong Answer" width="200" height="300">
+</p>
