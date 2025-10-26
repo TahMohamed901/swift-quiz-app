@@ -20,7 +20,7 @@ The app follows the **MVVM pattern**:
 
 ## 📱 App Preview
 <p align="center">
-  <img src="./intro.png" alt="Intro Screen" width="200" height="300" style="margin-right: 10px;">
-  <img src="./true.png" alt="Correct Answer" width="200" height="300" style="margin-right: 10px;">
-  <img src="./false.png" alt="Wrong Answer" width="200" height="300">
+  <img src="./intro.png" alt="Intro Screen" width="150" height="300" style="margin-right: 100px;">
+  <img src="./true.png" alt="Correct Answer" width="150" height="300" style="margin-right: 100px;">
+  <img src="./false.png" alt="Wrong Answer" width="150" height="300">
 </p>
